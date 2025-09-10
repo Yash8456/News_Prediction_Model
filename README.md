@@ -1,6 +1,8 @@
 # News_Prediction_Model
 
 📰 Fake News Prediction Model
+
+
 📌 Purpose
 
 With the rise of misinformation and fake news online, identifying unreliable news articles has become crucial. The purpose of this project is to build a Machine Learning pipeline that can automatically classify news as real or fake, helping users and organizations filter out misleading information effectively.
